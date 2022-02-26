@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the tryals of several notorious malefactors for murders, fellonyes, and burglaries holden at the Sessions-House in the Old-Baily, for the city of London and county of Middlesex, and goale-delivery [sic] of Newgate, which began on the 16 of this instant January, and ended the 17 : with the other most remarkable proceedings ...</title>
+            <author>England and Wales. Court of Oyer and Terminer and Gaol Delivery (London and Middlesex).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75786</idno>
+            <idno type="STC">Wing A417E</idno>
+            <idno type="STC">ESTC R213526</idno>
+            <idno type="EEBO-CITATION">38875500</idno>
+            <idno type="OCLC">ocm 38875500</idno>
+            <idno type="VID">152162</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2281:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the tryals of several notorious malefactors for murders, fellonyes, and burglaries holden at the Sessions-House in the Old-Baily, for the city of London and county of Middlesex, and goale-delivery [sic] of Newgate, which began on the 16 of this instant January, and ended the 17 : with the other most remarkable proceedings ...</title>
+                  <author>England and Wales. Court of Oyer and Terminer and Gaol Delivery (London and Middlesex).</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Leigh,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:152162:1" rendition="simple:additions"/>
+            <head>An ACCOUNT OF THE TRYALS OF SEVERAL Notorious MALEFACTORS. For <hi>Murders, Fellonyes</hi> and <hi>Burglaries,</hi> Holden at the Seſſions-Houſe in the <hi>Old-Baily,</hi> for the City of <hi>London</hi> and County of <hi>Middleſex.</hi> AND GOALE-DELIVERY, <hi>Of NEWGATE.</hi> VVhich began on the 16. of this Inſtant <hi>January,</hi> and ended the 17. With the other moſt Remarkable PROCEEDINGS.</head>
+            <head>But eſpecially the. Tryal of Mr. <hi>St. John,</hi> for Killing a Gentleman of <hi>Lincolns Inn,</hi> and <hi>Elizabeth Croſſman,</hi> for Murdering her Apprentice with a Chiſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, as like<g ref="char:EOLhyphen"/>wiſe the Debate held about ſending the Condemned Popiſh Prieſts to the Iſle of <hi>Scilly. Together with the Names of the Perſons Condemned to Dye, Burnt in the Hand, Tranſported and to be Whipt.</hi>
+            </head>
+            <p>
+               <hi>JAnuary</hi> the 16. This day the Seſſions for the City of <hi>London,</hi> County of <hi>Middleſex,</hi> and Goal Delivery of <hi>Newgate,</hi> began at the Seſſions-Houſe in the <hi>Old-Baily,</hi> where the proceedings were as followeth.</p>
+            <p>
+               <hi>Elizabeth Scot</hi> was Tryed for ſtealing two ſilver Perfuming Pots, two ſilver Cups, half a dozen of Spoons, and ſome other pieces of Plate, on the 29 of <hi>December,</hi> from one <hi>Anthony Comizary</hi> a Jew, li<g ref="char:EOLhyphen"/>ving near <hi>Aldgate,</hi> ſhe being taken as ſhe was bringing them down ſtairs in her Apron; her Plea was, That ſhe was Drunk, and knew not what ſhe did, but upon the Evidences poſſitive ſwearing to the Fact, ſhe was found Guilty.</p>
+            <p>
+               <hi>Robert Huckle</hi> took his Tryal, as a Confederate with a Servant lately living at Mr. <hi>William Bethels</hi> in <hi>Cornhil,</hi> and aſſiſting her on the 4th. of <hi>December</hi> laſt, to Rob her Maſter of three Diamond Rings, ten pieces of old Gold, eighty Guinies, half a dozen of ſilver Spoons, two ſtanding Cups, and ſeveral other pieces of Plate and Rings, in all to the Value of 300 <abbr>
+                  <hi>l.</hi>
+               </abbr> the Robbery being committed when all the Fam<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that ſervant excepted, were gone to Church, and upon her
+<pb n="2" facs="tcp:152162:2"/>being charged with it, ſhe Confeſſed it, and declared that the Priſo<g ref="char:EOLhyphen"/>ner inticed her to break open the Cup-board where the Treaſure was, and helped her away with it, and he, upon his being Apprehended having two ten ſhilling pieces of old Gold, a Guinny, an half Guinny about him, and as the Evidence ſwore, having Confeſſed the ſame, the Jury brought him in Guilty.</p>
+            <p>
+               <hi>George Emerſon</hi> was Tryed for ſtealing a ſilver Tankard, ſpecified in the Indictment to be worth ſix pound, the Felony being committed on the 12 of <hi>January,</hi> at the Houſe of one <hi>Merfield,</hi> at the three Black Birds in <hi>Warwick</hi> Lane; the Witneſſes which were the Woman of the Houſe and her Daughter, who ſwore poſitive to the Fact; and on the other ſide the Priſoner endeavoured to clear himſelf, by bringing ſeveral people to teſtify where he was at the time the Felony was committed, the which he produced, but the Court being diſſatisfied with the Teſtimony of one of them, by reaſon he lived in <hi>White Fry<g ref="char:EOLhyphen"/>ers,</hi> the Priſoner was found Guilty.</p>
+            <p>
+               <hi>Robert Maſon</hi> being Indicted for ſtealing Hens and a Cock, in the Pa<g ref="char:EOLhyphen"/>riſh of St. <hi>Giles Cripplegate</hi> (as ſome ſuppoſe to compleat the Turky Feaſt lately held in <hi>Smithfield,</hi>) he was found Guilty to the value of 10 <abbr>
+                  <hi>d.</hi>
+               </abbr> and ſo is like to have but ſowr ſawce to his Hollow Bits.</p>
+            <p>
+               <hi>John Johnſon</hi> and <hi>William Aſhbott</hi> were Tryed for the Murder of <hi>Lucy Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,</hi> on the tenth of <hi>December</hi> laſt, in the Pariſh of <hi>Cripplegate,</hi> by driving a Cart over her head, of which bruiſe ſhe inſtantly dyed, ſeveral VVitneſſes were produced, who ſwore, that the Horſe bruſh<g ref="char:EOLhyphen"/>ed her down, and ſhe falling under the wheel, the Cart being heavy Laden with Dung, it went over her before the Horſes could be ſtopt, and that a Coach at the ſame time coming by might hinder the Car<g ref="char:EOLhyphen"/>ter from ſaving her, ſo that it appearing not to be wilfully done, the Priſoners were acquitted, but the Cart and Horſes fell to the Kings Almoner, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Humphry Bennet</hi> of St. <hi>Clement Danes,</hi> was Tryed for aſſaulting <hi>Wil<g ref="char:EOLhyphen"/>liam Sellwood</hi> in the ſtreet, about 10 of the Clock in the Evening, and after having ſtruck up his Heels, taking from him his Hat and Cra<g ref="char:EOLhyphen"/>vat, the latter being found about him by the Conſtable of the Watch that apprehended him, and he not being able to give a good account of himſelf, he was found Guilty.</p>
+            <p>
+               <hi>Robert Cundell</hi> of St. <hi>Katharines</hi> was Tryed for Stealing a Cloak from <hi>George Willet,</hi> the which upon Enquiry was found in his Houſe; he Pleaded, That he Drinking in the Houſe where it was taken from, by an over-ſight wrapped it up amongſt his own things, but that being lookt upon as a frivolous Excuſe, he was found Guilty.</p>
+            <p>
+               <hi>John Smith</hi> of the Pariſh of <hi>Stepney,</hi> was Tryed for entring a Houſe in <hi>Stepney,</hi> and taking thence a Carpet and ſome wearing Apparel, the which when he perceived he could not conveniently carry away, he dropped; ſo that the Evidence not charging him to have had them about him at the time he was Apprehended, the Jury acquit<g ref="char:EOLhyphen"/>ted him.</p>
+            <p>
+               <hi>Rowland</hi> St. <hi>John</hi> having three Indictments preferred againſt him for Killing Mr. <hi>Stiles</hi> of <hi>Lincolns Inn,</hi> viz. one for Murder by the Grand Jury, another by the Corroner upon his Inqueſt, and the third up<g ref="char:EOLhyphen"/>on the Statute of Stabbing; the Evidence were ſworn to them, and
+<pb n="3" facs="tcp:152162:2"/>Depoſed as followeth, That the Priſoner and the Deceaſed having been at ſeveral Taverns, and by that means ſomewhat overcome with Wine, they at laſt came to the Three <hi>Crowns</hi> in <hi>Chance<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi>-Lane, where they fell to hot Words, inſomuch that the Deceaſed laid his Hand upon his Sword, upon which the Priſoner drew, and e're he could be prevented, run him two Inches into the Body, of which in three days he dyed, <hi>viz.</hi> on the 10 of December, but there appearing no former Malice, he was found Guilty of Man-Slaughter.</p>
+            <p>Mr. <hi>Thomſon,</hi> a Council, moved the Court in the behalf of the Sheriffs, That an Order of Court might be Granted for ſending the Popiſh Prieſts, now Priſoners in <hi>Newgate</hi> to the Iſle of <hi>Scily,</hi> alledging, That then they might be fully VVaranted in what they did, having already received his Majeſties Order for that purpoſe; upon which my Lord Chief Juſtice <hi>Pemberton</hi> told him, <hi>That it was not a matter that concerned the Court, but that, if his Majeſty was pleaſed to Reprieve them, and Order them to be ſent thither, they muſt ſend them; and Sentence of Death being awarded againſt them, the Court had no further to do in it, and that no Order of Court could be granted in that Caſe;</hi> upon which Mr. Sheriff <hi>Pilkington</hi> ſtood up and told his Lordſhip, <hi>That he was very wil<g ref="char:EOLhyphen"/>ling to deliver them in obedience to his Majeſtys Warrant, but all he deſired was, that he and his Brother Sheriff might be Indemnified.</hi>
+            </p>
+            <p>It was moved by a Councellor ſent from Mr. Attorny General, that if any Bills of Indictment were brought againſt any of the Kings E<g ref="char:EOLhyphen"/>vidence they might not be preferred to the Grand-Jury, before Mr. Attorny had notice of them; upon which the Court gave Order, That if any ſuch were brought, that the <hi>Clerk</hi> ſhould wait upon him with them, adding, That the Kings name could not be uſed againſt any perſon contrary to His Majeſties Pleaſure.</p>
+            <p>
+               <hi>Eliſabeth Sims,</hi> being Committed for Robbing <hi>William Greſham</hi> of <hi>St. Martins in the Fields</hi> Confeſſed the Robbery before the Juſtice that Committed her, and was upon her Tryal, found Guilty of Fellony.</p>
+            <p>
+               <hi>Thomas Knight;</hi> a Foot Soldier was Tryed for killing a Life-Guard man, at <hi>Kings-Gate,</hi> about two miles on this ſide <hi>Chelſey,</hi> on the 17 of December; but it appearing, That the Life-Guard man purſued him with his Drawn Sword, and cut him over the Head and Arm, and that he was forced to Draw to Defend his Life, he was found Guil<g ref="char:EOLhyphen"/>ty of Man-Slaughter likewiſe.</p>
+            <p>
+               <hi>Elizabeth Croſman,</hi> of St. <hi>Martins</hi> in the Fields, had a Bill of Indict<g ref="char:EOLhyphen"/>ment preferred againſt her for Murthering <hi>John Bret,</hi> her Apprentice, the matter of Fact thus; ſhe being at an oppoſite Ale-houſe, where having taken a Cup too much, ſhe came home and found the Young man at Play with her Son, took up a Stick to beat him, of which, after ſhe had ſtruck him a blow or two, he diſarmed her, whereupon taking up a Carving-Tool that lay upon the Bench (her Husband being of that Trade) ſhe ſtruck it into his Body, 3 inches deep, juſt under his Left Pap, and there left it ſticking, and after that threw another at him, which cut him on the hand; ſaying, <hi>She had often ſaid, ſhe ſhould be Hanged for him, and now her ſaying was come to paſs;</hi> after the Youth had received the Mortal Wound, he cry'd, <hi>O Lord forgive me my Sins, for I ſhall Die;</hi> and with that, going down Stairs, got in<g ref="char:EOLhyphen"/>to a Neighbours Houſe, where he no ſooner ſat him down, but ex<g ref="char:EOLhyphen"/>pired;
+<pb n="4" facs="tcp:152162:3"/>She alledged upon her Tryal, That he gave her ſeveral pro<g ref="char:EOLhyphen"/>voking Words, but not being able to prove any ſuch thing, ſhe was found Guilty of wilful Murther.</p>
+            <p>
+               <hi>Alexander Younger,</hi> the perſon who ſwore Treaſon againſt Mr. <hi>Harvy,</hi> was Tryed upon a Treſpaſs for forcibly entring the Houſe of <hi>Albinus Spencer,</hi> and under a pretence of ſearching for prohibited Goods, taking thence 2 Silver Sword Hilts, valued at 4 <abbr>
+                  <hi>l.</hi>
+               </abbr> He ha<g ref="char:EOLhyphen"/>ving been Tryed for a Fellony the laſt Seſſions, and acquitted; but had no ſuch good luck this: But after a full hearing of the Evi<g ref="char:EOLhyphen"/>dence he was found Guilty of the Treſpaſs, and Fined Ten Mark, and to continue till next Seſſions. There were produced in Court no leſs than Ten Commitments by which he had been committed to <hi>Newgate</hi> and other Goals for Fellony and Miſdemeanors, and it was objected, That he had not only Counterfeited the Hands of the Five Commiſſioners of the Cuſtoms, but likewiſe the Kings Seal; and yet this was one of Loyal NAT'S intimate acquaintance.</p>
+            <p>
+               <hi>Paul Rutter,</hi> a <hi>French</hi> Doctor, was Tryed for Poyſoning. <hi>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bert Mor<g ref="char:EOLhyphen"/>gan,</hi> a Life-Guard man, in the Pariſh of St. <hi>Martins</hi> in the Fields, on the 10 of <hi>November</hi> laſt, the manner thus; The Doctor keeping the Deceaſed's Wife as his Miſs, and there being an Eſtate of 50 <hi>
+                  <abbr>l.</abbr> per annum</hi> in the Caſe, after the Death of her Husband, the Doctor takes an occaſion to meet him one morning, and in all kindneſs deſired him to take his Mornings Draught with him, after which the Deceaſed went home and fell exceeding Ill, Vomiting up black matter, com<g ref="char:EOLhyphen"/>plaining the Doctor had Poyſoned him, and ſo continuing for the ſpace of 4 days, Died; and upon his being opened, a black Potion was found ſetled in his Stomach; but after the Examination of about 20 Witneſſes on both ſides, the Jury being half <hi>French</hi> and half <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> he was Acquitted; but upon the Courts being diſſatisfied, forc'd to give in Security for his Good Behaviour.</p>
+            <p>
+               <hi>Heſter Lemore</hi> was Tryed for Robbing a Gentlewomans Houſe in <hi>Covent-Garden,</hi> of a Necklace of Pearl valued at 23 <abbr>
+                  <hi>l.</hi>
+               </abbr> two Silver Candleſticks laid at 13 <abbr>
+                  <hi>l.</hi>
+               </abbr> ſix Silver Spoons, <hi>&amp;c.</hi> the Evidence ſwore, That ſhe having Lodged in the Houſe, went up Stairs under pretence of ſpeaking with Monſieur <hi>Moſes,</hi> a Gentleman that Lodged there; and that the Plate was in the Chamber when ſhe went up, but miſ<g ref="char:EOLhyphen"/>ſed preſently after ſhe was departed, upon which they followed her to a place ſhe uſed to frequent, and made ſearch, but found nothing, ſo that they not being able to prove it poſitively, and ſhe bringing a great many <hi>French</hi> People with whom ſhe lately fled out of <hi>France</hi> for Religion, to Teſtifie that ſhe was Deſcended of a good Family, and had lived honeſtly, ſhe was Acquitted</p>
+            <p>At this Seſſions 7 perſons received Sentence of Death, 1 Man and 6 Women, <hi>viz. Humphry Bennet, Elizabeth Scot, Elizabeth Croſman, Ann Dixon, Joyce Love, Martha Huckle</hi> and <hi>Elizabeth White,</hi> 3 Burnt in the Hand, 3 to be Tranſported, and 5 Whipt.</p>
+            <p>
+               <hi>Alexander Younger</hi> Fined for a Treſpaſs 10 Marks, and kept in Pri<g ref="char:EOLhyphen"/>ſon till next Seſſions. And Mr. <hi>St. John</hi> brought his Majeſties War<g ref="char:EOLhyphen"/>rant for ſtaying his being Burnt in the Hand: and about 7 Indicted for Recuzancy. And ſo ended this Remarkable Seſſions,</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted for Charles Leigh, <hi>1682.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
